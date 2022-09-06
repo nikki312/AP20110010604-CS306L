@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+	printf("Nikhil");
+	return 0;
+}
