@@ -1,4 +1,4 @@
-/*Design of Non-Recursive Predictive Parsing
+//*Design of Predictive Parsing
 for the grammar
 
 E → TE’
@@ -7,6 +7,7 @@ T → FT’
 T’→ *FT’ | ε
 F → (E) | d
 */
+
 
 #include<stdio.h>
 #include<conio.h>
